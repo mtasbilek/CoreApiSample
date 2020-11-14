@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/coreapisample/v15
+/.vs
+/Patika/.vs/Patika/DesignTimeBuild
+/Patika/.vs/Patika/v15
+/Patika/Patika.API/bin/Debug/netcoreapp2.1
+/Patika/Patika.API/obj
+/Patika/Patika.DataContext/bin/Debug/netcoreapp2.1
+/Patika/Patika.DataContext/obj/Debug/netcoreapp2.1
+/Patika/Patika.DataContext/obj
+/Patika/Patika.Dto/bin/Debug/netcoreapp2.1
+/Patika/Patika.Dto/obj/Debug/netcoreapp2.1
+/Patika/Patika.Dto/obj
+/Patika/Patika.Entity/bin/Debug/netcoreapp2.1
+/Patika/Patika.Entity/obj
+/Patika/Patika.Manager/bin/Debug/netcoreapp2.1
+/Patika/Patika.Manager/obj
+/Patika/Patika.Repository/bin/Debug/netcoreapp2.1
+/Patika/Patika.Repository/obj
+/Patika/Patika.Utils/bin/Debug/netcoreapp2.1
+/Patika/Patika.Utils/obj/Debug/netcoreapp2.1
+/Patika/Patika.Utils/obj
